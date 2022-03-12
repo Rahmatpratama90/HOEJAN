@@ -1,7 +1,7 @@
 # HOEJAN
 
 # I. Introduction
-* This Program is Arduino Program for HOEJAN / Idenation 2019 Competition
+* This Program is Arduino Program for HOEJAN / Ideanation 2019 Competition
 * This Project Has Objective to be Portable Rain Power Plant 
 
 # II. Prerequisites
