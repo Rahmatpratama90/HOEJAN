@@ -30,6 +30,6 @@ Step 3 :
 
 ```
 
-Open the Code and Upload It to the Arduino Microcontroller
+Open the Code and Upload it to the Arduino Microcontroller
 
 ```
